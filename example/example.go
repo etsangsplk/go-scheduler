@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/goscheduler"
+	"github.com/jtaczanowski/goscheduler"
 )
 
 func main() {
