@@ -1,4 +1,4 @@
-# goscheduler
+# goscheduler [![Build Status](https://travis-ci.org/jtaczanowski/goscheduler.png?branch=master)](https://travis-ci.org/jtaczanowski/goscheduler)
 goscheduler - Golang package providing function for executing task periodically. Optionaly you can add delay on task start.
 
 Example usage (also included in example catalog)
