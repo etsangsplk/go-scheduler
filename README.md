@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/jtaczanowski/goscheduler"
+	"github.com/jtaczanowski/go-scheduler"
 )
 
 func main() {
