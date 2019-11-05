@@ -1,4 +1,4 @@
-# goscheduler [![Build Status](https://travis-ci.org/jtaczanowski/go-scheduler.png?branch=master)](https://travis-ci.org/jtaczanowski/go-scheduler) [![Coverage Status](https://coveralls.io/repos/github/jtaczanowski/go-scheduler/badge.svg?branch=master)](https://coveralls.io/github/jtaczanowski/go-scheduler?branch=master)
+# goscheduler [![Build Status](https://travis-ci.org/jtaczanowski/go-scheduler.png?branch=master)](https://travis-ci.org/jtaczanowski/go-scheduler) [![Coverage Status](https://coveralls.io/repos/github/jtaczanowski/go-scheduler/badge.svg?branch=master)](https://coveralls.io/github/jtaczanowski/go-scheduler?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/jtaczanowski/go-graphite-client)](https://goreportcard.com/report/github.com/jtaczanowski/go-graphite-client)
 goscheduler - Golang package providing function for executing task periodically. Optionaly you can add delay on task start.
 
 Example usage (also included in example catalog)
